@@ -1,3 +1,4 @@
+# neta-nonadmin-canary
 spec_version: 2
 description: Provision an AWS S3 bucket.
 
