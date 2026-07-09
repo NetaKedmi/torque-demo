@@ -1,3 +1,4 @@
+# pt-canary-approve
 spec_version: 2
 description: Provision an AWS VPC with a public /24 subnet, internet gateway, and route table.
 
